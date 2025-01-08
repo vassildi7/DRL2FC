@@ -7,7 +7,7 @@ This repository provides a reinforcement learning-based controller for a two-are
 
 To use this repository, you need:
 - MATLAB R2024a or later
-- Reinforcement Learning Toolbox
+- MATLAB Reinforcement Learning Toolbox
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ To use this repository, you need:
 
 The reinforcement learning agent acts as a secondary controller on the LFC system. It ensures stability during:
 1. Normal load changes.
-2. Step attacks targeting area 1 frequency measurement and/or tie-line power flow measurement.
+2. FDIAs targeting area 1 frequency measurement and/or tie-line power flow measurement.
 3. Noisy environment operation.
 
 ## License
