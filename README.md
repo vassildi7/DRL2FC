@@ -42,4 +42,4 @@ This project is open-source under the MIT License.
 
 ## Acknowledgments
 
-Developed as part of a thesis at the School of Electrical and Computer Engineering, National Technical University of Athens.
+Developed as part of the paper "DRL2FC: An Attack-Resilient Load Frequency Control Based on Deep Reinforcement Learning" submitted to Power Tech 2025 Conference https://2025.ieee-powertech.org/
