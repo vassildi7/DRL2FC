@@ -1,7 +1,7 @@
 
 # DRL2FC and Testbed
 
-This repository provides a reinforcement learning-based attack-resilient controller for a Load Frequency Control (LFC) systems. The controller is designed to handle load changes and mitigate the effects of false data injection attacks (FDIAs) in the system. The testbed is implemented in MATLAB and Simulink.
+This repository provides a reinforcement learning-based attack-resilient controller for Load Frequency Control (LFC) systems. The controller is designed to handle load changes and mitigate the effects of false data injection attacks (FDIAs) in the system. The testbed is implemented in MATLAB and Simulink.
 
 ## Prerequisites
 
